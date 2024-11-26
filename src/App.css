@@ -1,0 +1,9 @@
+body{
+  margin : 0px !important
+}
+.vrlogo{
+  width: 100%;
+}
+.logoContainer{
+  display: grid; grid-template-columns: 1fr;
+}
